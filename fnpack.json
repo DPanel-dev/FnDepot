@@ -3,7 +3,7 @@
     "display_name": "DPanel",
     "desc": "DPanel 是一款轻量化的管理 Docker、Podman 容器的可视化面板。\n原生的中文的界面，更适合中文环境使用。同时支持英文、日文等多种语言。安装简单，占用资源极低，更适合各种 Nas 设备、盒子以及小型服务器。面板提供了容器、Compose、镜像等容器管理的基础功能。支持管理容器内部文件，支持多种类型添加 Compose 项目。可以通过 Docker Api 和 SSH 的方式添加、管理多个 Docker 服务端。",
     "labels": "工具,效率",
-    "version": "v1.9.3",
+    "version": "1.9.3",
     "author": "DPanel-dev",
     "author_url": "https://dpanel.cc",
     "download_url": "",
@@ -11,7 +11,7 @@
     "install_type": "存储空间",
     "size": "~30",
     "history": {
-      "vv1.9.3": "更新日志: https://github.com/donknap/dpanel/releases/tag/vv1.9.3"
+      "v1.9.3": "更新日志: https://github.com/donknap/dpanel/releases/tag/vv1.9.3"
     }
   }
 }
