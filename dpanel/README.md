@@ -8,7 +8,7 @@ DPanel 是一款轻量化的管理 Docker、Podman 容器的可视化面板
 可以通过 Docker Api 和 SSH 的方式添加、管理多个 Docker 服务端，并支持通过 ssh 及 sftp 管理宿主机。
 
 
-###### [:point_right::point_right::point_right: 更多功能介绍](/pro?id=%e4%bb%b7%e6%a0%bc%e5%8f%8a%e5%8a%9f%e8%83%bd)
+###### [👉👉👉 更多功能介绍](/pro?id=%e4%bb%b7%e6%a0%bc%e5%8f%8a%e5%8a%9f%e8%83%bd)
 
 ## 视频教程
 https://space.bilibili.com/346309066
