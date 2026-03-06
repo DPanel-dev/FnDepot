@@ -16,10 +16,10 @@
     "changelog": "修复 windows 下运行提示证书生成路径不对\r\n修复 标准版下https 证书生成失败 #265 \r\n修复 前端界面在弹出层后文字标题没有隐藏\r\n修复 文件管理没有上传，新建等按钮",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/donknap/dpanel/releases/download/v1.9.3.1/dpanel-amd64.fpk"
+        "download_url": "https://github.com/donknap/dpanel/releases/download/v1.9.3-1/dpanel-amd64.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/donknap/dpanel/releases/download/v1.9.3.1/dpanel-arm64.fpk"
+        "download_url": "https://github.com/donknap/dpanel/releases/download/v1.9.3-1/dpanel-arm64.fpk"
       }
     }
   }
