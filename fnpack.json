@@ -13,7 +13,7 @@
     "bug_report_url": "https://github.com/donknap/dpanel/issues",
     "install_type": "存储空间",
     "size": "29",
-    "changelog": "",
+    "changelog": "fix container snapshot restore failure\r\nfix image import tar.gz extension support and OCI image compatibility\r\nfix container title not loaded on edit\r\nfix compose remoteGitUrl task address editing\r\nfix compose task directory file creation failure\r\n\r\n<br/>\r\n<br/>\r\n\r\n修复 容器快照恢复失败\r\n修复 导入镜像 tar.gz 扩展名支持及 OCI 镜像包兼容\r\n修复 编辑容器时未获取到标题\r\n修复 Compose 远程 Git 任务地址无法编辑\r\n修复 Compose 任务目录新建文件失败",
     "arch_diff": {
       "x86": {
         "download_url": "https://github.com/donknap/dpanel/releases/download/v1.10.2/dpanel-amd64.fpk"
