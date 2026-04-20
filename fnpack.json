@@ -7,19 +7,19 @@
     ],
     "desc": "DPanel 是一款轻量化的管理 Docker、Podman 容器的可视化面板。\n原生的中文的界面，更适合中文环境使用。同时支持英文、日文等多种语言。安装简单，占用资源极低，更适合各种 Nas 设备、盒子以及小型服务器。面板提供了容器、Compose、镜像等容器管理的基础功能。支持管理容器内部文件，支持多种类型添加 Compose 项目。可以通过 Docker Api 和 SSH 的方式添加、管理多个 Docker 服务端。",
     "labels": "工具,效率",
-    "version": "v1.10.2",
+    "version": "v1.10.3-beta",
     "distributor": "DPanel-dev",
     "distributor_url": "https://dpanel.cc",
     "bug_report_url": "https://github.com/donknap/dpanel/issues",
     "install_type": "存储空间",
     "size": "29",
-    "changelog": "fix container snapshot restore failure\r\nfix image import tar.gz extension support and OCI image compatibility\r\nfix container title not loaded on edit\r\nfix compose remoteGitUrl task address editing\r\nfix compose task directory file creation failure\r\n\r\n<br/>\r\n<br/>\r\n\r\n修复 容器快照恢复失败\r\n修复 导入镜像 tar.gz 扩展名支持及 OCI 镜像包兼容\r\n修复 编辑容器时未获取到标题\r\n修复 Compose 远程 Git 任务地址无法编辑\r\n修复 Compose 任务目录新建文件失败",
+    "changelog": "",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/donknap/dpanel/releases/download/v1.10.2/dpanel-amd64.fpk"
+        "download_url": "https://github.com/donknap/dpanel/releases/download/v1.10.3-beta/dpanel-amd64.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/donknap/dpanel/releases/download/v1.10.2/dpanel-arm64.fpk"
+        "download_url": "https://github.com/donknap/dpanel/releases/download/v1.10.3-beta/dpanel-arm64.fpk"
       }
     }
   }
