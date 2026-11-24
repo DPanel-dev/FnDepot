@@ -19,23 +19,27 @@ https://space.bilibili.com/346309066
 
 [https://afdian.com/a/dpanel](https://afdian.com/a/dpanel)
 
+### 微信打赏
+
+<img src="https://cdn.w7.cc/dpanel/wx-sponsor.jpg" alt="微信打赏二维码" width="360" />
+
 ## 交流群
 
-<img src="./assets/qq.png" alt="DPanel QQ 交流群二维码" width="300" />
+<img src="https://cdn.w7.cc/dpanel/qq.png" alt="DPanel QQ 交流群二维码" width="300" />
 
 ## 界面预览
-![home.png](./Preview/home.png)
+![home.png](https://cdn.w7.cc/dpanel/home.png)
 #### 容器管理
-![app-list.png](./Preview/app-list.png)
+![app-list.png](https://cdn.w7.cc/dpanel/app-list.png)
 #### 文件管理
-![app-file.png](./Preview/app-file.png)
+![app-file.png](https://cdn.w7.cc/dpanel/app-file.png)
 #### 镜像管理
-![image-list.png](./Preview/image-list.png)
+![image-list.png](https://cdn.w7.cc/dpanel/image-list.png)
 #### 创建镜像
-![image-create.png](./Preview/image-create.png)
+![image-create.png](https://cdn.w7.cc/dpanel/image-create.png)
 #### 创建Compose
-![compose-create.png](./Preview/compose-create.png)
+![compose-create.png](https://cdn.w7.cc/dpanel/compose-create.png)
 #### 部署Compose
-![compose-deploy.png](./Preview/compose-deploy.png)
+![compose-deploy.png](https://cdn.w7.cc/dpanel/compose-deploy.png)
 #### 系统管理
-![system-basic.png](./Preview/system-basic.png)
+![system-basic.png](https://cdn.w7.cc/dpanel/system-basic.png)
